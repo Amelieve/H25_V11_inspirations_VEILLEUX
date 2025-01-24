@@ -5,4 +5,4 @@ Je suis principalement intéressé par **l'animation 2D/3D** et par le côté pl
 
 ![Image](beeandpuppucatghif.gif)
 
-### Lieux inspirants
+### Inspirations
