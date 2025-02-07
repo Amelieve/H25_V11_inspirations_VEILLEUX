@@ -10,4 +10,4 @@ Je suis principalement intéressé par **l'animation 2D/3D** et par le côté pl
 ![Image](beeandpuppucatghif.gif)
 
 ## Inspirations
-J'ai plusieurs inspirations dans la vie, la plus importante étant Disney, j'ai toujours été fasciné par ce monde merveilleux. Des animations qui ont plus de 100 ans et qui ont marqués des générations. Raiponce est le film animés qui m'a le plus affecté, il suffit d'écouter un making-of du film pour réaliser la dure tâche de ce film. De plus,
+J'ai plusieurs inspirations dans la vie, la plus importante étant Disney, j'ai toujours été fasciné par ce monde merveilleux. Des animations qui ont plus de 100 ans et qui ont marqués des générations. Raiponce est le film animés qui m'a le plus affecté, il suffit d'écouter un making-of du film pour réaliser la dure tâche de ce film.
