@@ -1,11 +1,12 @@
 # Centre des sciences de Montréal #
-## Le Banquet ##
+## Le Banquet #
 ![Image](media/affiche_banquet_r.jpg)
 ---------------
 Le banquet est une exposition de type permanante qui utilise les cinq sens humain de plusieurs façons surprenantes. Nous avons eu la chance de voir cette exposition le 31 janvier 2025. 
 
 Cependant, un dispotif en particulier m'a intéressé: Goûter la couleur
 ---------------
+### Mise en espace ###
 ![Image](media/exposition.jpg)
 
 ### Expérience ###
@@ -23,4 +24,7 @@ Les objets principaux pour cette installation sont les bonbons qui permettent le
 ### Cette exposition a été crées par ###
 ![Image](media/credit_r.jpg)
 
+## Mon opinion ##
+
+Personnellement, j'ai trouvé que cette exposition est globalement très intéressante, que ce soit pour les enfants ou les adultes. Cette exposition, remplie de couleurs, aura forcément quelque chose qui vous intéressera. Dans mon cas, le dispositif « Goûter la couleur » a attiré mon attention. Ce dernier joue avec notre perception pour nous faire croire un mensonge. Certes, il a un aspect un peu plus enfantin avec les bonbons, mais à la fin, nous en apprenons davantage sur le fonctionnement de notre cerveau. Cependant, je ne sais pas si ce dispositif peut être très agréable pour des parents dont les enfants ne sont intéressés que par les bonbons. Pour conclure, je conseillerais fortement cette exposition aux familles, car elle est à la fois informative et amusante.
 
