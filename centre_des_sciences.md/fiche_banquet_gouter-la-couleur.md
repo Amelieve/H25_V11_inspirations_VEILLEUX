@@ -14,6 +14,8 @@ Cette expérience consistait de goûter un bonbon en même temps de répondre à
 
 Les objets principaux pour cette installation sont les bonbons qui permettent le côté interactive et plus enfantin de cette installation mais aussi les écrans qui permettent aux gens de répondent aux questions ce qui permet aussi le fait que cette installation est interactive. Ses deux choses sont les éléments les plus importants de cette installation. 
 
+![Image](media/IMG_1614.jpeg)
+
 ### Cette exposition a été crées par ###
 ![Image](media/credit_r.jpg)
 
