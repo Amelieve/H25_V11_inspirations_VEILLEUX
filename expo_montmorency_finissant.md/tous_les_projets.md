@@ -19,3 +19,12 @@ Si nous nous penchons plus sur le côté dans l'intérieur de l'écran, il est �
 #### Équipe: Dominic Yale, William Beauvais et Anton Nikulin ####
 ---------------
 #### Installation du projet ####
+Image
+#### Plantation du projet ####
+Image
+---------------
+
+Ce projet m'a fortement intéréssé quand je l'ai vu au loin, malgré qu'un jeu vidéo peut être vu comment une idée simple pour un projet commme celui-ci, je trouve que celui-ci resort parmi les autres. Je trouve que le design de ce jeu  est très nostalgique et vintage. Le jeu en tant que telle est intéréssant sans être trop compliqué ce qui permet à tout le monde d'y jouer. J'ai adoré mon expérience en y jouant et j'étais très content d'avoir essayer celui-ci. 
+
+Cette équipe n'aurait pas réussi à réaliser ce projet sans le cours d'animation 2D pour la cération des personnages et de l'environnement. Comme tous les projets, le cours de conception d'une expérience multimédia a été nécessaire à la création de ce jeu. De plus, cette équipe a eu besoin du cours programmation interactive pour réaliser la fonction web de ce porjet.
+
