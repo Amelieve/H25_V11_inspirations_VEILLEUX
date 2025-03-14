@@ -28,3 +28,8 @@ Ce projet m'a fortement intéréssé quand je l'ai vu au loin, malgré qu'un jeu
 
 Cette équipe n'aurait pas réussi à réaliser ce projet sans le cours d'animation 2D pour la cération des personnages et de l'environnement. Comme tous les projets, le cours de conception d'une expérience multimédia a été nécessaire à la création de ce jeu. De plus, cette équipe a eu besoin du cours programmation interactive pour réaliser la fonction web de ce porjet.
 
+### Etheria ###
+#### Équipe: Joshua, Victor Gileau, Michael Un Dupré, Pierre et Maik Hamel ####
+---------------
+#### Installation du projet ####
+![Image](etheria_)
