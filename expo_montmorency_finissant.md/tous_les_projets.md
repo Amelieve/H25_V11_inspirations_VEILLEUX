@@ -33,6 +33,8 @@ Cette équipe n'aurait pas réussi à réaliser ce projet sans le cours d'animat
 ## Prismatica ##
 #### Équipe: Vincent Delisle, Ikrame Rata et Jérémy Duverseau ####
 ---------------
+#### Installation du projet ####
+![Image](media/prismatica_dessin_main.png)
 
 ## Fuga ##
 #### Équipe: Matis, Tristan, Daniel, Abdel et Avuz ####
