@@ -35,6 +35,12 @@ Cette équipe n'aurait pas réussi à réaliser ce projet sans le cours d'animat
 ---------------
 #### Installation du projet ####
 ![Image](media/prismatica_dessin_main.png)
+Photo par Amélie Veilleux
+#### Plantation du projet ####
+![Image](media/prismatica_plantation.jpg)
+#### Image trouvé sur le site de Prismatica ####
+---------------
+Personnellement, j'ai trouvé ce projet fascinant, celui-ci nous permet d'utiliser de la créativité en rendant nos créations vivantes, ces dernières s'animent et font une petite musique ce qui est très amusant.
 
 ## Fuga ##
 #### Équipe: Matis, Tristan, Daniel, Abdel et Avuz ####
