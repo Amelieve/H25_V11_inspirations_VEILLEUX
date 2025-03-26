@@ -53,6 +53,11 @@ image
 [!Image](media/fuga_plantation.png)
 #### Image trouvé sur le site de Fuga ####
 ---------------
+
+Ce projet est très intéressant, leur décor attrape très vite l'attention des utilisateurs. Je suis allée l'essayer avec mes amies, celui-ci est bien, car plusieurs personnes peuvent vivre l'expérience en même temps. De plus, un des membres de l'équipe nous a expliquer que chaque place est différente, donc tout le monde a une expérience différente ce qui est très amusant.
+
+Les arbres, éléments principaux du projet, n'auraient pas pu être réaliser sans le cours d'animation 3D et le cours de modélisation 3D. De plus, cette équipe a dû utiliser le cours d'objet interactif pour permettre que des planches de controles puissent modifier l'apparence des arbres quand nous jouons avec ceux-ci.
+
 ## Internature ##
 #### Équipe: Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonemna Yi et Kenza El Harrif ####
 ---------------
