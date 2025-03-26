@@ -40,11 +40,16 @@ Photo par Amélie Veilleux
 ![Image](media/prismatica_plantation.jpg)
 #### Image trouvé sur le site de Prismatica ####
 ---------------
-Personnellement, j'ai trouvé ce projet fascinant, celui-ci nous permet d'utiliser de la créativité en rendant nos créations vivantes, ces dernières s'animent et font une petite musique ce qui est très amusant.
+Personnellement, j'ai trouvé ce projet fascinant, celui-ci nous permet d'utiliser de la créativité en rendant nos créations vivantes, ces dernières s'animent et font une petite musique ce qui est très amusant en étant utilisateur. J'ai l'impression qu'il est impossible de partir de cette expérience en étant malheureux de son expérience. 
+
+Ce projet nécessite clairement le cours de objet interactive pour que nos dessins puissent s'animer mais aussi du cours de réalité mixte. Cette équipe a nécessairement du utiliser leurs notions du cours d'intéractivité ludique pour ce projet. 
 
 ## Fuga ##
 #### Équipe: Matis, Tristan, Daniel, Abdel et Avuz ####
 ---------------
+#### Installation du projet ####
+image
+#### Plantation du projet ####
 
 ## Internature ##
 #### Équipe: Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonemna Yi et Kenza El Harrif ####
