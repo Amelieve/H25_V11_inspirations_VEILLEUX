@@ -50,7 +50,9 @@ Ce projet nécessite clairement le cours de objet interactive pour que nos dessi
 #### Installation du projet ####
 image
 #### Plantation du projet ####
-
+[!Image](media/fuga_plantation.png)
+#### Image trouvé sur le site de Fuga ####
+---------------
 ## Internature ##
 #### Équipe: Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonemna Yi et Kenza El Harrif ####
 ---------------
