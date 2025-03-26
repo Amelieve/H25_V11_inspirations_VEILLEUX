@@ -67,7 +67,7 @@ Photo par Rosalie Vallaincourt
 #### Plantation du projet ####
 [!Image](media/internature_plantation.jpg)
 #### Image trouvé sur le site de Internature ####
-
+---------------
 Ce projet est définitivement le premier que nous voyons quand nous entrons dans la salle alors, je me suis très vite intéréssé à celui-ci. Ce projet est très impressionant et on pourrait que celui-ci sort directement d'une exposition profesionnelle. J'adore le concept des fleurs qui apparaisent sur les parois quand nous bougeons proche. Une de mes amies a facilement rester 10 minutes dans cette exposition juste à s'amuser à faire apparaitre des fleurs. 
 
 Cette équipe a du avoir besoin de la plupart des cours d'intéractivié comme objets interactifs et intéractivité ludique. Comme dernier cours, ils ont sûrement eu besoin d'installation multimédia.
@@ -75,3 +75,10 @@ Cette équipe a du avoir besoin de la plupart des cours d'intéractivié comme o
 ## Luminatura ##
 #### Équipe: Audrey, Justine, Camilia, Prethiah et Ibah ####
 ---------------
+#### Installation du projet ####
+
+#### Plantation du projet ####
+[!Image](media/luminatura_plantation.jpg)
+#### Image trouvé sur le site de Luminatura ####
+---------------
+Personellement, 
