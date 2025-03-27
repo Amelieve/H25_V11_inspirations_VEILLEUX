@@ -48,6 +48,7 @@ Ce projet nécessite clairement le cours de objet interactive pour que nos dessi
 ---------------
 #### Installation du projet ####
 ![Image](media/fuga_stand.jpg)
+Photo par Amélie Veilleux
 #### Plantation du projet ####
 ![Image](media/fuga_plantation.png)
 #### Image trouvé sur le site de Fuga ####
@@ -62,9 +63,11 @@ Les arbres, éléments principaux du projet, n'auraient pas pu être réaliser s
 #### Équipe: Dominic Yale, William Beauvais et Anton Nikulin ####
 ---------------
 #### Installation du projet ####
-Image
+![Image](media/arcadia_machine.jpg)
+Photo par Amélie Veilleux
 #### Plantation du projet ####
-Image
+![Image](media/arcadia_plantation.png)
+#### Image trouvé sur le site de Arcadia ####
 ---------------
 
 Ce projet m'a fortement intéréssé quand je l'ai vu au loin, malgré qu'un jeu vidéo peut être vu comment une idée simple pour un projet commme celui-ci, je trouve que celui-ci resort parmi les autres. Je trouve que le design de ce jeu  est très nostalgique et vintage. Le jeu en tant que telle est intéréssant sans être trop compliqué ce qui permet à tout le monde d'y jouer. J'ai adoré mon expérience en y jouant et j'étais très content d'avoir essayer celui-ci. 
