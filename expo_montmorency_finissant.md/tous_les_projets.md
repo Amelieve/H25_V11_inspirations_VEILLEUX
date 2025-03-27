@@ -5,10 +5,11 @@ Nous avons eu la chance d'aller voir le progrès sur les travaux finaux des fini
 ---------------
 #### Installation du projet ####
 ![Image](media/C0NDU8_veloecran.jpg)
-Photo par Amélie Veilleux
+Photo de l'installation / Photo par Amélie Veilleux
 #### Plantation du projet ####
 ![Image](media/C0NDU8_plantation.webp)
-#### Image trouvé sur le site de C0NDU8 ####
+Image trouvé sur le site de C0NDU8 
+
 ---------------
 
 Ce projet m'a vraiment fasciné, je ne croyais pas voir un projet de ce genre réalisé par des finissants de la technique. Je trouve que celui-ci est bien pensé et plaisant à effectuer, il demande un certain effort physique ce que je trouve très créatif. Alors, bien évidemment, qu'après avoir réalisé celui-ci j'étais épuisé, car j'ai tout donné pour gagner.
@@ -20,10 +21,11 @@ Si nous nous penchons plus sur le côté dans l'intérieur de l'écran, il est �
 ---------------
 #### Installation du projet ####
 ![Image](media/internature_ecran.jpg)
-Photo par Rosalie Vallaincourt
+Photo de l'installation / Photo par Rosalie Vallaincourt
 #### Plantation du projet ####
 ![Image](media/internature_plantation.jpg)
-#### Image trouvé sur le site de Internature ####
+ Image trouvé sur le site de Internature 
+
 ---------------
 Ce projet est définitivement le premier que nous voyons quand nous entrons dans la salle alors, je me suis très vite intéréssé à celui-ci. Ce projet est très impressionant et on pourrait que celui-ci sort directement d'une exposition profesionnelle. J'adore le concept des fleurs qui apparaisent sur les parois quand nous bougeons proche. Une de mes amies a facilement rester 10 minutes dans cette exposition juste à s'amuser à faire apparaitre des fleurs. 
 
@@ -34,10 +36,11 @@ Cette équipe a du avoir besoin de la plupart des cours d'intéractivié comme o
 ---------------
 #### Installation du projet ####
 ![Image](media/prismatica_dessin_main.png)
-Photo par Amélie Veilleux
+Photo de l'installation / Photo par Amélie Veilleux
 #### Plantation du projet ####
 ![Image](media/prismatica_plantation.jpg)
-#### Image trouvé sur le site de Prismatica ####
+ Image trouvé sur le site de Prismatica 
+
 ---------------
 Personnellement, j'ai trouvé ce projet fascinant, celui-ci nous permet d'utiliser de la créativité en rendant nos créations vivantes, ces dernières s'animent et font une petite musique ce qui est très amusant en étant utilisateur. J'ai l'impression qu'il est impossible de partir de cette expérience en étant malheureux de son expérience. 
 
@@ -48,10 +51,11 @@ Ce projet nécessite clairement le cours de objet interactive pour que nos dessi
 ---------------
 #### Installation du projet ####
 ![Image](media/fuga_stand.jpg)
-Photo par Amélie Veilleux
+Photo de l'installation / Photo par Amélie Veilleux
 #### Plantation du projet ####
 ![Image](media/fuga_plantation.png)
-#### Image trouvé sur le site de Fuga ####
+ Image trouvé sur le site de Fuga 
+
 ---------------
 
 Ce projet est très intéressant, leur décor attrape très vite l'attention des utilisateurs. Je suis allée l'essayer avec mes amies, celui-ci est bien, car plusieurs personnes peuvent vivre l'expérience en même temps. De plus, un des membres de l'équipe nous a expliquer que chaque place est différente, donc tout le monde a une expérience différente ce qui est très amusant.
@@ -64,10 +68,11 @@ Les arbres, éléments principaux du projet, n'auraient pas pu être réaliser s
 ---------------
 #### Installation du projet ####
 ![Image](media/arcadia_machine.jpg)
-Photo par Amélie Veilleux
+Photo de l'installation / Photo par Amélie Veilleux
 #### Plantation du projet ####
 ![Image](media/arcadia_plantation.png)
-#### Image trouvé sur le site de Arcadia ####
+ Image trouvé sur le site de Arcadia 
+ 
 ---------------
 
 Ce projet m'a fortement intéréssé quand je l'ai vu au loin, malgré qu'un jeu vidéo peut être vu comment une idée simple pour un projet commme celui-ci, je trouve que celui-ci resort parmi les autres. Je trouve que le design de ce jeu  est très nostalgique et vintage. Le jeu en tant que telle est intéréssant sans être trop compliqué ce qui permet à tout le monde d'y jouer. J'ai adoré mon expérience en y jouant et j'étais très content d'avoir essayer celui-ci. 
@@ -79,10 +84,11 @@ Cette équipe n'aurait pas réussi à réaliser ce projet sans le cours d'animat
 ---------------
 #### Installation du projet ####
 ![Image](media/luminatura_generale.jpg)
-Photo par Amélie Veilleux
+Photo de l'installation / Photo par Amélie Veilleux
 #### Plantation du projet ####
 ![Image](media/luminatura_plantation.jpg)
-#### Image trouvé sur le site de Luminatura ####
+Image trouvé sur le site de Luminatura 
+
 ---------------
 Personellement, j'ai trouvé ce projet très divertisant, comme le projet Fuga, celui-ci offre une expérience différente pour tout le monde grâce aux trois stations. Il était très amusant d'essayer les trois actions différentes et je crois que tout le monde a eu un bon temps dans cette expérience. 
 
