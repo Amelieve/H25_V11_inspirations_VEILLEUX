@@ -15,20 +15,19 @@ Ce projet m'a vraiment fasciné, je ne croyais pas voir un projet de ce genre r�
 
 Si nous nous penchons plus sur le côté dans l'intérieur de l'écran, il est évidemment que ce groupe ont eu besoin du cours de modélisation 3D pour réaliser le personnage et son environnement. Ensuite, pour bien former leur idée, le cours de conception d'une expérience multimédia est nécessaire. Cependant, ce projet n'aurait pas été possible sans le cours d'objets interactifs pour l'utilisation du vélo.
 
-## Arcadia ##
-#### Équipe: Dominic Yale, William Beauvais et Anton Nikulin ####
+## Internature ##
+#### Équipe: Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonemna Yi et Kenza El Harrif ####
 ---------------
 #### Installation du projet ####
-Image
+[!Image](media/internature_ecran.jpg)
+Photo par Rosalie Vallaincourt
 #### Plantation du projet ####
-Image
+[!Image](media/internature_plantation.jpg)
+#### Image trouvé sur le site de Internature ####
 ---------------
+Ce projet est définitivement le premier que nous voyons quand nous entrons dans la salle alors, je me suis très vite intéréssé à celui-ci. Ce projet est très impressionant et on pourrait que celui-ci sort directement d'une exposition profesionnelle. J'adore le concept des fleurs qui apparaisent sur les parois quand nous bougeons proche. Une de mes amies a facilement rester 10 minutes dans cette exposition juste à s'amuser à faire apparaitre des fleurs. 
 
-Ce projet m'a fortement intéréssé quand je l'ai vu au loin, malgré qu'un jeu vidéo peut être vu comment une idée simple pour un projet commme celui-ci, je trouve que celui-ci resort parmi les autres. Je trouve que le design de ce jeu  est très nostalgique et vintage. Le jeu en tant que telle est intéréssant sans être trop compliqué ce qui permet à tout le monde d'y jouer. J'ai adoré mon expérience en y jouant et j'étais très content d'avoir essayer celui-ci. 
-
-Cette équipe n'aurait pas réussi à réaliser ce projet sans le cours d'animation 2D pour la cération des personnages et de l'environnement. Comme tous les projets, le cours de conception d'une expérience multimédia a été nécessaire à la création de ce jeu. De plus, cette équipe a eu besoin du cours programmation interactive pour réaliser la fonction web de ce porjet.
-
-
+Cette équipe a du avoir besoin de la plupart des cours d'intéractivié comme objets interactifs et intéractivité ludique. Comme dernier cours, ils ont sûrement eu besoin d'installation multimédia.
 
 ## Prismatica ##
 #### Équipe: Vincent Delisle, Ikrame Rata et Jérémy Duverseau ####
@@ -58,19 +57,19 @@ Ce projet est très intéressant, leur décor attrape très vite l'attention des
 
 Les arbres, éléments principaux du projet, n'auraient pas pu être réaliser sans le cours d'animation 3D et le cours de modélisation 3D. De plus, cette équipe a dû utiliser le cours d'objet interactif pour permettre que des planches de controles puissent modifier l'apparence des arbres quand nous jouons avec ceux-ci.
 
-## Internature ##
-#### Équipe: Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonemna Yi et Kenza El Harrif ####
+
+## Arcadia ##
+#### Équipe: Dominic Yale, William Beauvais et Anton Nikulin ####
 ---------------
 #### Installation du projet ####
-[!Image](media/internature_ecran.jpg)
-Photo par Rosalie Vallaincourt
+Image
 #### Plantation du projet ####
-[!Image](media/internature_plantation.jpg)
-#### Image trouvé sur le site de Internature ####
+Image
 ---------------
-Ce projet est définitivement le premier que nous voyons quand nous entrons dans la salle alors, je me suis très vite intéréssé à celui-ci. Ce projet est très impressionant et on pourrait que celui-ci sort directement d'une exposition profesionnelle. J'adore le concept des fleurs qui apparaisent sur les parois quand nous bougeons proche. Une de mes amies a facilement rester 10 minutes dans cette exposition juste à s'amuser à faire apparaitre des fleurs. 
 
-Cette équipe a du avoir besoin de la plupart des cours d'intéractivié comme objets interactifs et intéractivité ludique. Comme dernier cours, ils ont sûrement eu besoin d'installation multimédia.
+Ce projet m'a fortement intéréssé quand je l'ai vu au loin, malgré qu'un jeu vidéo peut être vu comment une idée simple pour un projet commme celui-ci, je trouve que celui-ci resort parmi les autres. Je trouve que le design de ce jeu  est très nostalgique et vintage. Le jeu en tant que telle est intéréssant sans être trop compliqué ce qui permet à tout le monde d'y jouer. J'ai adoré mon expérience en y jouant et j'étais très content d'avoir essayer celui-ci. 
+
+Cette équipe n'aurait pas réussi à réaliser ce projet sans le cours d'animation 2D pour la cération des personnages et de l'environnement. Comme tous les projets, le cours de conception d'une expérience multimédia a été nécessaire à la création de ce jeu. De plus, cette équipe a eu besoin du cours programmation interactive pour réaliser la fonction web de ce porjet.
 
 ## Luminatura ##
 #### Équipe: Audrey, Justine, Camilia, Prethiah et Ibah ####
@@ -81,4 +80,6 @@ Cette équipe a du avoir besoin de la plupart des cours d'intéractivié comme o
 [!Image](media/luminatura_plantation.jpg)
 #### Image trouvé sur le site de Luminatura ####
 ---------------
-Personellement, 
+Personellement, j'ai trouvé ce projet très divertisant, comme le projet Fuga, celui-ci offre une expérience différente pour tout le monde grâce aux trois stations. Il était très amusant d'essayer les trois actions différentes et je crois que tout le monde a eu un bon temps dans cette expérience. 
+
+Comme la plupart des équipes, ce projet demande le cours d'objet interactif et d'installation multimédia. De plus, cette équipe a eu besoin du cours de cours de conception d'une expérience multiédia pour réaliser cette expérience. 
