@@ -4,7 +4,7 @@ Nous avons eu la chance d'aller voir le progrès sur les travaux finaux des fini
 #### Équipe: Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervais, Kevin Malric et Jérémy Roy Coté ####
 ---------------
 #### Installation du projet ####
-![Image](media/C0NDU8_installation.heic)
+![Image](media/C0NDU8_veloecran.jpg)
 Photo par Amélie Veilleux
 #### Plantation du projet ####
 ![Image](media/C0NDU8_plantation.webp)
@@ -19,10 +19,10 @@ Si nous nous penchons plus sur le côté dans l'intérieur de l'écran, il est �
 #### Équipe: Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonemna Yi et Kenza El Harrif ####
 ---------------
 #### Installation du projet ####
-[!Image](media/internature_ecran.jpg)
+![Image](media/internature_ecran.jpg)
 Photo par Rosalie Vallaincourt
 #### Plantation du projet ####
-[!Image](media/internature_plantation.jpg)
+![Image](media/internature_plantation.jpg)
 #### Image trouvé sur le site de Internature ####
 ---------------
 Ce projet est définitivement le premier que nous voyons quand nous entrons dans la salle alors, je me suis très vite intéréssé à celui-ci. Ce projet est très impressionant et on pourrait que celui-ci sort directement d'une exposition profesionnelle. J'adore le concept des fleurs qui apparaisent sur les parois quand nous bougeons proche. Une de mes amies a facilement rester 10 minutes dans cette exposition juste à s'amuser à faire apparaitre des fleurs. 
