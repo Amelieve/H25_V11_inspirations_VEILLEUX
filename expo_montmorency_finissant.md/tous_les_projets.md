@@ -78,9 +78,10 @@ Cette équipe n'aurait pas réussi à réaliser ce projet sans le cours d'animat
 #### Équipe: Audrey, Justine, Camilia, Prethiah et Ibah ####
 ---------------
 #### Installation du projet ####
-
+![Image](media/luminatura_generale.jpg)
+Photo par Amélie Veilleux
 #### Plantation du projet ####
-[!Image](media/luminatura_plantation.jpg)
+![Image](media/luminatura_plantation.jpg)
 #### Image trouvé sur le site de Luminatura ####
 ---------------
 Personellement, j'ai trouvé ce projet très divertisant, comme le projet Fuga, celui-ci offre une expérience différente pour tout le monde grâce aux trois stations. Il était très amusant d'essayer les trois actions différentes et je crois que tout le monde a eu un bon temps dans cette expérience. 
