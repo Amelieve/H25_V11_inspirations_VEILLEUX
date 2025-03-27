@@ -47,9 +47,9 @@ Ce projet nécessite clairement le cours de objet interactive pour que nos dessi
 #### Équipe: Matis, Tristan, Daniel, Abdel et Avuz ####
 ---------------
 #### Installation du projet ####
-image
+![Image](media/fuga_stand.jpg)
 #### Plantation du projet ####
-[!Image](media/fuga_plantation.png)
+![Image](media/fuga_plantation.png)
 #### Image trouvé sur le site de Fuga ####
 ---------------
 
