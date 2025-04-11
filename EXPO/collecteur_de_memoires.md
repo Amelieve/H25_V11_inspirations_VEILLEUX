@@ -14,4 +14,18 @@ Cette exposition met en valeur le tout premier égout collecteur construit en Am
 ![Image](media/couloir_exposition.jpg)
 Photo par Amélie Veilleux
 
-### Plus d'informations ###
+### Mise en espace ###
+![Image](media/croquis_mise_en_page.png)
+Croquis réalisé par Amélie Veilleux :)
+
+### Composantes et techniques ###
+Le composant principal de cette exposition est constitué des lumières et des projecteurs utilisés pour créer les couleurs que nous voyons. Ceux-ci sont dispersés tout au long de l'égout.
+![Image](media/lumieres_01.jpg)
+Photo par Amélie Veilleux
+![Image](media/lumieres_02.jpg)
+Photo par Amélie Veilleux
+
+De plus, il y a un projecteur à la fin du corridor qui montre une vidéo contenant des anciennes photos prises à Montréal. 
+
+![Image](media/ecran_chute.jpg)
+Photo par Amélie Veilleux
