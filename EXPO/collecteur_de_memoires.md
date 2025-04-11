@@ -1,6 +1,6 @@
 ## Collecteur de mémoires ##
 
-![Image](media/affiche_exposition.jpg)
+![Image](media/affiche_exposition_petit.jpg)
 Affiche qui nous indique l'exposition, photo par Amélie Veilleux
 
 ------------
