@@ -14,6 +14,10 @@ Cette exposition met en valeur le tout premier égout collecteur construit en Am
 ![Image](media/couloir_exposition.jpg)
 Photo par Amélie Veilleux
 
+*Ils sont appelés à vivre une expérience multisensorielle et réflexive grâce à l’installation Collecteur de mémoires, un ingénieux mécanisme de projections lumineuses sur les parois en pierre, dans un environnement sonore spécialement créé pour l’occasion.*
+
+Source : Site Web de Pointe-à-Callière, https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/
+
 ### Mise en espace ###
 ![Image](media/croquis_mise_en_page.png)
 Croquis réalisé par Amélie Veilleux :)
@@ -29,3 +33,7 @@ De plus, il y a un projecteur à la fin du corridor qui montre une vidéo conten
 
 ![Image](media/ecran_chute.jpg)
 Photo par Amélie Veilleux
+
+### Éléments nécessaires à la mise en exposition ###
+Bien sûr, l’élément principal de cette exposition est l’égout : sans lui, il n’y aurait tout simplement pas d’exposition. Ensuite, comme mentionné plus haut, des projecteurs et des jeux de lumière permettent de nous immerger dans l’environnement. Pour terminer, des pancartes sont disposées au début et à la fin du parcours.
+Malgré la simplicité des éléments, cette exposition parvient réellement à nous plonger dans un autre univers.
