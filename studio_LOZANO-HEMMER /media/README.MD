@@ -1,1 +1,1 @@
-
+Photo pour documentation conférence
