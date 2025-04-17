@@ -10,6 +10,9 @@ Affiche de l'exposition, photo par Amélie Veilleux
 
 Cette oeuvre très immersive est constitué de deux énormes écrans transparents avec deux vidéos différentes projetés dessus. Tout cela est accompagné de deux musiques différentes de 20 min45 s associées chacune à une vidéo. 
 
+***(...) la pièce résulte d’une commande du pianiste Paul Wittgenstein après l’amputation de son bras droit lors de la Première Guerre mondiale.***
+
+Source: Site du Musée des beaux-arts de Montréal, exposition de Anri Sala : Ravel Ravel Interval : https://www.mbam.qc.ca/fr/expositions/anri-sala/
 
 ![Image](media/deux_ecrans.jpg)
 Écrans transparents utilisés, photo par Amélie Veilleux
