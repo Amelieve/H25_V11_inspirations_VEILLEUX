@@ -35,3 +35,6 @@ En plus, des composantes mentionnées, il y avait deux bancs pour que les visite
 
 ### Opinion ###
 J'ai trouvé cette exposition très fascinante, celle-ci devient touchante quand nous apprenons l'histoire derrière. En plus, cette dernière touche tout âge grâce à sa simplicité, elle n'est pas abstraite ce qui la rend facile à comprendre. 
+
+![Image](media/remerciments.jpg)
+Remerciements de l'exposition, photo par Amélie Veilleux
