@@ -6,9 +6,10 @@ Cette exposition est présenté au Musée des beaux-arts de Montréal est une in
 Affiche de l'exposition, photo par Amélie Veilleux
 
 -------
-### Mise en espace ###
+### Mise en espace et description de l'oeuvre ###
 
 Cette oeuvre très immersive est constitué de deux énormes écrans transparents avec deux vidéos différentes projetés dessus. Tout cela est accompagné de deux musiques différentes de 20 min45 s associées chacune à une vidéo. 
+
 
 ![Image](media/deux_ecrans.jpg)
 Écrans transparents utilisés, photo par Amélie Veilleux
