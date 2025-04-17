@@ -24,3 +24,10 @@ Comme mentionné plus haut, il y a deux écrans transparents, donc deux projecte
 
 ![Image](media/projecteur.jpg)
 Projecteur au plafond, photo par Amélie Veilleux
+
+### Autres éléments ###
+
+En plus, des composantes mentionnées, il y avait deux bancs pour que les visiteurs puissent comfortablement regarder l'oeuvre. 
+
+### Opinion ###
+J'ai trouvé cette exposition très fascinante, celle-ci devient touchante quand nous apprenons l'histoire derrière. En plus, cette dernière touche tout âge grâce à sa simplicité, elle n'est pas abstraite ce qui la rend facile à comprendre. 
