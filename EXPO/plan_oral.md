@@ -1,5 +1,7 @@
 Je suis allé voir l’exposition Collecteur de Mémoire présentée au Musée Pointe-à-Callière le 23 février 2025. Celle-ci est présentée depuis mai 2017 grâce à Moment Factory, qui est le collaborateur principal de ce projet. Cette présentation orale va vous permettre d’en apprendre plus sur cette fascinante œuvre qui met en valeur l’histoire de Montréal.
+
 Ce musée est très intéressant, mais s’y retrouver est compliqué. Ce n’était pas la première fois que j’allais à ce musée, mais je me suis quand même perdu. Cependant, quand nous arrivons à cette œuvre, nous nous plongeons directement dedans : les multiples couleurs captent immédiatement notre attention. Cette œuvre consiste à traverser un ancien égout de 110 mètres, anciennement utilisé à Montréal. Cet égout est éclairé par plusieurs projecteurs qui projettent des couleurs sur les murs. Malgré la simplicité de celle-ci, l’expérience reste très amusante et relaxante. Cela m’inspire fortement pour de futurs projets. De plus, ce simple parcours peut nous faire réaliser l’importance de Montréal dans l’histoire. Cela m’a fortement fait penser à l’exposition d’Anri Sala au Musée des beaux-arts de Montréal. Je trouve que cette œuvre est différente des multiples sorties que nous avons faites cette session.
+
 En conclusion, je trouve que cette exposition est très intéressante. Sa simplicité la rend unique et met en avant l’histoire de Montréal, qui est passionnante. Je recommande ce musée à tout le monde, surtout si vous voulez en apprendre plus sur l’histoire de Montréal.
 
 
